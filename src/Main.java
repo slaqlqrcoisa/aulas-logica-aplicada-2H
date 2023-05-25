@@ -13,7 +13,7 @@ public class Main {
         qualquer.falar();
         System.out.println(qualquer.falar("oi"));
 
-// Declarar objeto
+        // Declarar objeto
         Pessoa rainha;
         //instanciar objetos
         rainha = new Pessoa();
@@ -23,8 +23,7 @@ public class Main {
         rainha.sobrenome = "Tunner";
 
         // Definição do comportamento
-
-
         rainha.falar();
+        rainha.comer();
     }
 }
