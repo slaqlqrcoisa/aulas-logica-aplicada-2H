@@ -11,11 +11,11 @@ public class Pessoa extends Animal{
 // Sobrescrita do método
 
     public void comer() {
-    }System.out.println("pessoa comeu");
+    System.out.println("pessoa comeu");
 
     }
 
-
+    }
 
 
 
